@@ -32,7 +32,10 @@
 | [food_calories](https://github.com/Gunar-Oguz/food_calories) | Nutrition dashboard with automated ETL pipeline | Streamlit, AWS, Docker, CI/CD |
 | [job_analyzer](https://github.com/Gunar-Oguz/job_analyzer) | Job market analysis tool | FastAPI, PostgreSQL, Docker |
 
----
+
+### 🐍 Contribution Graph
+
+![Snake animation](https://github.com/Gunar-Oguz/Gunar-Oguz/blob/output/github-snake-dark.svg)
 
 ### 📫 Let's Connect
 
