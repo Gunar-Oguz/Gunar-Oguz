@@ -35,7 +35,7 @@
 
 ### 🐍 Contribution Graph
 
-![Snake animation](https://github.com/Gunar-Oguz/Gunar-Oguz/blob/output/github-snake-dark.svg)
+![snake](https://raw.githubusercontent.com/Gunar-Oguz/Gunar-Oguz/output/github-snake.svg)
 
 ### 📫 Let's Connect
 
