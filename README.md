@@ -3,7 +3,7 @@
 **Full Stack Data Scientist** building end-to-end data solutions.
 
 🎓 Master's in Data Science @ **UC Berkeley** (MIDS)  
-💼 5+ years Data Analyst/Engineer @ **Capgemini** and @ **Avromed** 
+💼 6+ years Data Scientist/ML Automation Analyst @ **GEICO, @ **Capgemini** and @ **Avromed** 
 📍 Seattle, WA
 
 ---
