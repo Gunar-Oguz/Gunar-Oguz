@@ -29,7 +29,7 @@
 
 | Project | Live | Description | Tech |
 |---------|------|-------------|------|
-| [food_calories](https://github.com/Gunar-Oguz/food_calories) | [▶ Open app](https://food-calories-gulnar.streamlit.app) | API → ETL → dashboard pipeline, data refreshed daily by GitHub Actions; AWS (S3, ECR, EC2) version included | Python, Docker, GitHub Actions, AWS, Streamlit |
+| [food_calories](https://github.com/Gunar-Oguz/food_calories) | [▶ Open app](https://food-calories-gulnar.streamlit.app) | Nutrition app on a daily ETL pipeline: build a plate, personal daily needs, steps and minutes to burn it off, healthier swaps; 588 real products, 31 tests | Python, pandas, Streamlit, Docker, GitHub Actions, AWS |
 | [job_analyzer](https://github.com/Gunar-Oguz/job_analyzer) | | Job market analysis tool | FastAPI, PostgreSQL, Docker |
 
 
