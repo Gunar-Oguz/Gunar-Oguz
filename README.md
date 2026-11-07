@@ -3,7 +3,7 @@
 **Full Stack Data Scientist** building end-to-end data solutions.
 
 🎓 Master's in Data Science @ **UC Berkeley** (MIDS)  
-💼 6+ years Data Scientist/ML Automation Analyst @ **GEICO, @ **Capgemini** and @ **Avromed** 
+💼 6+ years Data Scientist/ML Automation Analyst @ **GEICO**, **Capgemini** and **Avromed**  
 📍 Seattle, WA
 
 ---
@@ -27,10 +27,10 @@
 
 ### 🚀 Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [food_calories](https://github.com/Gunar-Oguz/food_calories) | Nutrition dashboard with automated ETL pipeline | Streamlit, AWS, Docker, CI/CD |
-| [job_analyzer](https://github.com/Gunar-Oguz/job_analyzer) | Job market analysis tool | FastAPI, PostgreSQL, Docker |
+| Project | Live | Description | Tech |
+|---------|------|-------------|------|
+| [food_calories](https://github.com/Gunar-Oguz/food_calories) | [▶ Open app](https://food-calories-gulnar.streamlit.app) | API → ETL → dashboard pipeline, data refreshed daily by GitHub Actions; AWS (S3, ECR, EC2) version included | Python, Docker, GitHub Actions, AWS, Streamlit |
+| [job_analyzer](https://github.com/Gunar-Oguz/job_analyzer) | | Job market analysis tool | FastAPI, PostgreSQL, Docker |
 
 
 ### 🐍 Contribution Graph
