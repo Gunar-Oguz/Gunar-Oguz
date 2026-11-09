@@ -29,6 +29,7 @@
 
 | Project | Live | Description | Tech |
 |---------|------|-------------|------|
+| [College-Copilot](https://github.com/Gunar-Oguz/College-Copilot) | [▶ Open app](https://college-copilot-gulnar.streamlit.app) (access by approval) | AI college-search assistant: Claude plans tool calls and SQL over 25+ public datasets, numbers always come from data and summaries are fact-checked; 70/70 on the eval set, 331 tests | Python, Claude API, DuckDB, PostgreSQL, FastAPI, Streamlit |
 | [food_calories](https://github.com/Gunar-Oguz/food_calories) | [▶ Open app](https://food-calories-gulnar.streamlit.app) | Nutrition app on a daily ETL pipeline: build a plate, personal daily needs, steps and minutes to burn it off, healthier swaps; 588 real products, 31 tests | Python, pandas, Streamlit, Docker, GitHub Actions, AWS |
 | [job_analyzer](https://github.com/Gunar-Oguz/job_analyzer) | [▶ Open app](https://job-analyzer-gulnar.streamlit.app) | Live remote-job market analytics + ML: salary predictor, job-category classifier, "Am I a fit?" skill-gap matcher; 67 tests | Python, scikit-learn, FastAPI, PostgreSQL, Docker, Streamlit |
 
