@@ -5,7 +5,7 @@ ML and LLM features on top, tested and shipped with Docker and CI/CD, and live f
 
 🎓 Master of Information and Data Science @ **UC Berkeley** (MIDS)  
 💼 6+ years as a Data Scientist / ML Automation Analyst @ **GEICO**, **Capgemini** and **Avromed**  
-📍 Seattle, WA · 🔭 Now going deep on **Apache Spark** and **Kubernetes**
+📍 Seattle, WA
 
 ---
 
@@ -21,7 +21,7 @@ ML and LLM features on top, tested and shipped with Docker and CI/CD, and live f
 
 | Project | What it shows |
 |---|---|
-| **[spark-lab](https://github.com/Gunar-Oguz/spark-lab)** | Learning Spark from the engine up: PySpark vs the JVM, partitions, shuffles, standalone clusters, break-and-fix labs. Kubernetes next |
+| **[spark-lab](https://github.com/Gunar-Oguz/spark-lab)** | Spark internals lab: PySpark vs the JVM, partitions, shuffles, standalone clusters, break-and-fix labs, Spark on Kubernetes |
 | **[Unemployment_Signaling](https://github.com/Gunar-Oguz/Unemployment_Signaling)** | Team ML project (Berkeley DATASCI 207): predicting sector-level US layoffs two months ahead from JOLTS, FRED, Google Trends and Atlanta Fed data |
 | **[insurance-claims-predictor](https://github.com/Gunar-Oguz/insurance-claims-predictor)** | Regression on 188k claims: encoding 116 categorical features lifts R² from 0.02 to 0.52 |
 
@@ -31,8 +31,8 @@ ML and LLM features on top, tested and shipped with Docker and CI/CD, and live f
 
 **Languages & data:** Python · SQL · R · pandas · DuckDB · PostgreSQL  
 **ML & AI:** scikit-learn · Claude API (tool use, agents, evals) · NLP · time-series  
-**Engineering:** FastAPI · Streamlit · Docker · GitHub Actions (CI/CD) · pytest · AWS (S3, ECR, EC2)  
-**Learning now:** Apache Spark (PySpark, cluster internals) · Kubernetes
+**Big data:** Apache Spark (PySpark, cluster internals) · Kubernetes  
+**Engineering:** FastAPI · Streamlit · Docker · GitHub Actions (CI/CD) · pytest · AWS (S3, ECR, EC2)
 
 ### 🧭 How I work
 
