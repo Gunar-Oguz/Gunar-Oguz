@@ -36,7 +36,7 @@ ML and LLM features on top, tested and shipped with Docker and CI/CD, and live f
 
 ### 🧭 How I work
 
-- **Real data, honest numbers:** my models report a baseline and a held-out score; every README states what was measured and when.
+- **Real data, honest numbers:** in my featured projects, models report a baseline and a held-out score, and READMEs state what was measured and when.
 - **Tested and shipped:** my featured projects have automated tests, CI on every push, and a live demo.
 - **Safe by default:** secrets only in secret stores, read-only data access for AI, cost limits on paid APIs.
 
