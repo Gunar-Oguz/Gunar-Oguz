@@ -1,47 +1,54 @@
-# Hi 👋 I'm Gulnar Albushova
+## Gulnar Albushova
 
-**Full-stack data scientist.** I build data products end to end: pipelines that pull and clean real data,
-ML and LLM features on top, tested and shipped with Docker and CI/CD, and live for anyone to try.
+Data Scientist · UC Berkeley, Master of Information and Data Science (MIDS) · Seattle, WA
 
-🎓 Master of Information and Data Science @ **UC Berkeley** (MIDS)  
-💼 6+ years as a Data Scientist / ML Automation Analyst @ **GEICO**, **Capgemini** and **Avromed**  
-📍 Seattle, WA
+I build data products end to end: pipelines that collect and clean real data, machine learning and LLM
+features on top, and production practices around them (automated tests, CI/CD, containers, cloud deployment).
+Six years of industry experience as a Data Scientist and ML Automation Analyst at GEICO, Capgemini and Avromed.
 
----
-
-### 🚀 Featured projects (all live)
-
-| Project | Try it | What it shows |
-|---|---|---|
-| **[College-Copilot](https://github.com/Gunar-Oguz/College-Copilot)** | [▶ Open app](https://college-copilot-gulnar.streamlit.app) (access by approval) | **LLM agent with tool use**: Claude plans tool calls and read-only SQL over 25+ public datasets; numbers always come from data and every summary is fact-checked against it. **70/70** on the eval set, **331 tests**, PostgreSQL → DuckDB port verified by evals |
-| **[job_analyzer](https://github.com/Gunar-Oguz/job_analyzer)** | [▶ Open app](https://job-analyzer-gulnar.streamlit.app) | **ML on live data**: salary predictor and job-category classifier (78% accuracy vs 26% baseline) trained daily on fresh postings, plus an "Am I a fit?" skill-gap matcher. FastAPI + PostgreSQL + Docker, **67 tests** |
-| **[food_calories](https://github.com/Gunar-Oguz/food_calories)** | [▶ Open app](https://food-calories-gulnar.streamlit.app) | **Data pipeline**: daily API → ETL → app refresh with GitHub Actions; AWS version on S3/ECR/EC2. Personal daily needs and exercise equivalents from cited formulas, **31 tests** |
-
-### 📚 More work
-
-| Project | What it shows |
-|---|---|
-| **[spark-lab](https://github.com/Gunar-Oguz/spark-lab)** | Spark internals lab: PySpark vs the JVM, partitions, shuffles, standalone clusters, break-and-fix labs, Spark on Kubernetes |
-| **[Unemployment_Signaling](https://github.com/Gunar-Oguz/Unemployment_Signaling)** | Team ML project (Berkeley DATASCI 207): predicting sector-level US layoffs two months ahead from JOLTS, FRED, Google Trends and Atlanta Fed data |
-| **[insurance-claims-predictor](https://github.com/Gunar-Oguz/insurance-claims-predictor)** | Regression on 188k claims: encoding 116 categorical features lifts R² from 0.02 to 0.52 |
+[LinkedIn](https://www.linkedin.com/in/gulnar-albushova-253252140/)
 
 ---
 
-### 🛠️ Tools I use
+### Selected projects
 
-**Languages & data:** Python · SQL · R · pandas · DuckDB · PostgreSQL  
-**ML & AI:** scikit-learn · Claude API (tool use, agents, evals) · NLP · time-series  
-**Big data:** Apache Spark (PySpark, cluster internals) · Kubernetes  
-**Engineering:** FastAPI · Streamlit · Docker · GitHub Actions (CI/CD) · pytest · AWS (S3, ECR, EC2)
+**[College-Copilot](https://github.com/Gunar-Oguz/College-Copilot)** · [Live application](https://college-copilot-gulnar.streamlit.app) (access by approval)  
+LLM agent for college search. Claude plans tool calls and read-only SQL over 25+ public U.S. education datasets;
+all figures are computed from data and every generated summary is verified against it before display.
+70/70 on the evaluation set; 331 automated tests; PostgreSQL-to-DuckDB migration validated by evals.  
+*Python, Claude API, DuckDB, PostgreSQL, FastAPI, Streamlit*
 
-### 🧭 How I work
+**[job_analyzer](https://github.com/Gunar-Oguz/job_analyzer)** · [Live application](https://job-analyzer-gulnar.streamlit.app)  
+Job-market analytics and machine learning on live postings: salary regression, job-category classification
+(78% accuracy against a 26% majority baseline) and a skill-gap matcher, retrained daily on fresh data.
+67 automated tests.  
+*Python, scikit-learn, FastAPI, PostgreSQL, Docker, Streamlit*
 
-- **Real data, honest numbers:** in my featured projects, models report a baseline and a held-out score, and READMEs state what was measured and when.
-- **Tested and shipped:** my featured projects have automated tests, CI on every push, and a live demo.
-- **Safe by default:** secrets only in secret stores, read-only data access for AI, cost limits on paid APIs.
+**[food_calories](https://github.com/Gunar-Oguz/food_calories)** · [Live application](https://food-calories-gulnar.streamlit.app)  
+Daily data pipeline from a public API through ETL to an application, scheduled with GitHub Actions,
+with an AWS deployment path (S3, ECR, EC2). Nutrition and energy-expenditure calculations from cited
+scientific formulas. 31 automated tests.  
+*Python, pandas, Docker, GitHub Actions, AWS, Streamlit*
+
+**[spark-lab](https://github.com/Gunar-Oguz/spark-lab)**  
+Apache Spark internals: PySpark and the JVM, partitioning, shuffles, spark-submit, standalone clusters,
+failure analysis, Spark on Kubernetes.  
+*PySpark, Apache Spark, Kubernetes*
+
+**[Unemployment_Signaling](https://github.com/Gunar-Oguz/Unemployment_Signaling)**  
+Team project, UC Berkeley DATASCI 207: predicting sector-level U.S. layoffs two months ahead from JOLTS,
+FRED, Google Trends and Atlanta Fed indicators.  
+*Python, time-series machine learning*
+
+**[insurance-claims-predictor](https://github.com/Gunar-Oguz/insurance-claims-predictor)**  
+Regression on 188,000 insurance claims; encoding 116 categorical features raised R² from 0.02 to 0.52.  
+*Python, scikit-learn*
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gulnar-albushova-253252140/)
+### Technical skills
 
-![snake](https://raw.githubusercontent.com/Gunar-Oguz/Gunar-Oguz/output/github-snake.svg)
+**Languages and data:** Python, SQL, R, pandas, DuckDB, PostgreSQL  
+**Machine learning and AI:** scikit-learn, LLM agents and tool use (Claude API), evaluation design, NLP, time series  
+**Big data:** Apache Spark (PySpark), Kubernetes  
+**Engineering:** FastAPI, Docker, GitHub Actions (CI/CD), pytest, AWS (S3, ECR, EC2), Streamlit
